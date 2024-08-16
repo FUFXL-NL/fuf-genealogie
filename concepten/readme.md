@@ -1,0 +1,1 @@
+het idee van deze obsidian vault is dat we er alle gevonden fragmenten in kunnen becomentarieren en zo aan elkaar kunnen verbinden, zodat we een genealogie van de fuf kunnen bouwen.

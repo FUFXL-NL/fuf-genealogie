@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d8eb08438b946430",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80de01ab5d50fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4051842d3f5d04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archief/K1/68/68.1/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6ee6835d06f233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepten/organisaties/eFeF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "565fa94d29299dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepten/organisaties/CoCo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34c4bba327b9fe0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepten/organisaties/dryade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2baa599b64ac2ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archief/K1/68/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc9d9b1d1b6af525",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e6c989e862babbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae721e3531b0515d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "158f3cf06a8a3fb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "437913f8328514bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef5f84a65bc1e07c",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f20fa357a04759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692ffa87ca5e59bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archief/K1/68/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7020f4e486a7d827",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archief/K1/68/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f6a4aaf60faeca5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9946e370fc778f58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archief/K1/68/readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae721e3531b0515d",
+  "lastOpenFiles": [
+    "archief/K1/readme.md",
+    "archief/K1/68/68.1/readme.md",
+    "archief/readme.md",
+    "concepten/organisaties/faculteitsvereniging.md",
+    "concepten/gebeurtenissen",
+    "concepten/Untitled.md",
+    "concepten/organisaties/faculteitsraad.md",
+    "concepten/organisaties/studieraad.md",
+    "archief/K1/68/readme.md",
+    "archief/K1/68",
+    "concepten/readme.md",
+    "concepten/organisaties/dryade.md",
+    "archief",
+    "concepten/organisaties/BOF.md",
+    "concepten/organisaties/CoCo.md",
+    "concepten/organisaties/eFeF.md",
+    "concepten/organisaties/FUF.md",
+    "concepten/personen/maarten van houte.md",
+    "concepten/personen/mansveld.md",
+    "concepten/personen/lies de regt.md",
+    "concepten/personen/paul van overvoorde.md",
+    "concepten/personen",
+    "concepten/organisaties",
+    "archief/K1/68/68.2",
+    "Untitled 1",
+    "concepten",
+    "archief/K1/68/68.1",
+    "archief/K1",
+    "Welcome.md"
+  ]
+}
