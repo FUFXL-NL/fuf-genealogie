@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepten/readme.md",
+                "file": "concepten/organisaties/epimedium.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepten/readme.md",
+                "file": "concepten/organisaties/epimedium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepten/readme.md",
+                "file": "concepten/organisaties/epimedium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepten/readme.md"
+                "file": "concepten/organisaties/epimedium.md"
               }
             }
           }
@@ -197,9 +197,17 @@
   },
   "active": "2baa599b64ac2ada",
   "lastOpenFiles": [
+    "concepten/organisaties/epimenides.md",
+    "concepten/organisaties/epimedium.md",
+    "concepten/organisaties/de filosoof.md",
+    "concepten/organisaties/CIF.md",
+    "concepten/organisaties/faculteitsverenigingen.md",
+    "concepten/organisaties/studentenfaculteit.md",
+    "archief/K1/68/68.1/readme.md",
+    "concepten/organisaties/ASVU.md",
+    "concepten/readme.md",
     "concepten/processen/readme.md",
     "concepten/personen/herbert.md",
-    "concepten/organisaties/ASVU.md",
     "concepten/organisaties/SVR.md",
     "concepten/organisaties/VIDIUS.md",
     "concepten/organisaties/USF.md",
@@ -209,24 +217,16 @@
     "concepten/organisaties/CoCo.md",
     "concepten/organisaties/BOF.md",
     "concepten/processen/democratisering.md",
-    "concepten/organisaties/faculteitsvereniging.md",
     "concepten/processen",
     "concepten/processen.md",
-    "archief/K1/68/68.1/readme.md",
     "archief/readme.md",
     "concepten/gebeurtenissen",
     "concepten/organisaties/faculteitsraad.md",
     "concepten/organisaties/studieraad.md",
     "archief/K1/68",
-    "concepten/readme.md",
     "concepten/organisaties/dryade.md",
     "archief",
     "concepten/organisaties/eFeF.md",
-    "concepten/organisaties/FUF.md",
-    "concepten/personen/maarten van houte.md",
-    "concepten/personen/mansveld.md",
-    "concepten/personen/lies de regt.md",
-    "concepten/personen/paul van overvoorde.md",
     "concepten/personen",
     "concepten/organisaties",
     "archief/K1/68/68.2",
