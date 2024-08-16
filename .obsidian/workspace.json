@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archief/K1/68/readme.md",
+                "file": "concepten/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archief/K1/68/readme.md",
+                "file": "concepten/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archief/K1/68/readme.md",
+                "file": "concepten/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archief/K1/68/readme.md"
+                "file": "concepten/readme.md"
               }
             }
           }
@@ -195,23 +195,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae721e3531b0515d",
+  "active": "2baa599b64ac2ada",
   "lastOpenFiles": [
+    "concepten/processen/readme.md",
+    "concepten/personen/herbert.md",
+    "concepten/organisaties/ASVU.md",
+    "concepten/organisaties/SVR.md",
+    "concepten/organisaties/VIDIUS.md",
+    "concepten/organisaties/USF.md",
+    "concepten/organisaties/USC.md",
+    "archief/K1/68/readme.md",
     "archief/K1/readme.md",
+    "concepten/organisaties/CoCo.md",
+    "concepten/organisaties/BOF.md",
+    "concepten/processen/democratisering.md",
+    "concepten/organisaties/faculteitsvereniging.md",
+    "concepten/processen",
+    "concepten/processen.md",
     "archief/K1/68/68.1/readme.md",
     "archief/readme.md",
-    "concepten/organisaties/faculteitsvereniging.md",
     "concepten/gebeurtenissen",
-    "concepten/Untitled.md",
     "concepten/organisaties/faculteitsraad.md",
     "concepten/organisaties/studieraad.md",
-    "archief/K1/68/readme.md",
     "archief/K1/68",
     "concepten/readme.md",
     "concepten/organisaties/dryade.md",
     "archief",
-    "concepten/organisaties/BOF.md",
-    "concepten/organisaties/CoCo.md",
     "concepten/organisaties/eFeF.md",
     "concepten/organisaties/FUF.md",
     "concepten/personen/maarten van houte.md",
@@ -223,8 +232,6 @@
     "archief/K1/68/68.2",
     "Untitled 1",
     "concepten",
-    "archief/K1/68/68.1",
-    "archief/K1",
-    "Welcome.md"
+    "archief/K1/68/68.1"
   ]
 }
