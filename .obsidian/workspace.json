@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vragen.md",
+                "file": "archief/K1/68/68.1/readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vragen.md",
+                "file": "archief/K1/68/68.1/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vragen.md",
+                "file": "archief/K1/68/68.1/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vragen.md"
+                "file": "archief/K1/68/68.1/readme.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   },
   "active": "8e84857fbfe07d4c",
   "lastOpenFiles": [
+    "vragen.md",
     "readme.md",
     "gesprekken/readme.md",
     "concepten/processen/readme.md",
@@ -235,7 +236,6 @@
     "concepten/organisaties/faculteitsraad.md",
     "concepten/organisaties/CIF.md",
     "concepten/organisaties/Centrale Interfaculteit.md",
-    "concepten/organisaties/ASVU.md",
     "archief/K1/68/68.1/Pasted image 20240817115800.png",
     "concepten/organisaties/filo utrecht",
     "concepten/organisaties/bladen",
