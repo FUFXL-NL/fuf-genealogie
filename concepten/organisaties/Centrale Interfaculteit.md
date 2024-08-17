@@ -1,1 +1,1 @@
-aka de [[CIF]]
+aka de [CIF](concepten/organisaties/CIF.md)

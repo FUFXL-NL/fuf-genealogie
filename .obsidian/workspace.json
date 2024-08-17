@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "vragen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "vragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "vragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md"
+                "file": "vragen.md"
               }
             }
           }
@@ -210,36 +210,37 @@
   },
   "active": "8e84857fbfe07d4c",
   "lastOpenFiles": [
-    "archief/K1/68/68.1/Pasted image 20240817115800.png",
     "readme.md",
-    "concepten/organisaties/filo utrecht",
-    "archief/K1/68/68.1/readme.md",
-    "concepten/personen/Jan v. Amerongen.md",
-    "concepten/personen/Cor Schavemaker.md",
-    "concepten/personen/Geert Panhuysen.md",
-    "concepten/organisaties/Centrale Interfaculteit.md",
-    "concepten/organisaties/studentenfaculteit.md",
-    "concepten/organisaties/bladen/Ublad.md",
-    "concepten/organisaties/bladen",
-    "concepten/organisaties/studieraad.md",
-    "concepten/organisaties/SVR.md",
-    "concepten/organisaties/bladen/de filosoof.md",
-    "concepten/organisaties/filo utrecht/eFeF.md",
-    "concepten/organisaties/LFVSF.md",
-    "concepten/organisaties/SvSF.md",
     "gesprekken/readme.md",
+    "concepten/processen/readme.md",
+    "concepten/processen/democratisering.md",
+    "concepten/personen/paul van overvoorde.md",
+    "concepten/personen/Menno Lievers.md",
+    "concepten/personen/mansveld.md",
     "concepten/personen/maarten van houte.md",
+    "concepten/personen/lies de regt.md",
+    "concepten/personen/Jan v. Amerongen.md",
+    "concepten/personen/herbert.md",
+    "concepten/personen/Geert Panhuysen.md",
+    "concepten/personen/Cor Schavemaker.md",
+    "concepten/organisaties/VIDIUS.md",
+    "concepten/organisaties/USF.md",
+    "concepten/organisaties/USC.md",
+    "concepten/organisaties/SvSF.md",
+    "concepten/organisaties/SVR.md",
+    "concepten/organisaties/studieraad.md",
+    "concepten/organisaties/studentenfaculteit.md",
+    "concepten/organisaties/LFVSF.md",
+    "concepten/organisaties/faculteitsverenigingen.md",
+    "concepten/organisaties/faculteitsraad.md",
+    "concepten/organisaties/CIF.md",
+    "concepten/organisaties/Centrale Interfaculteit.md",
+    "concepten/organisaties/ASVU.md",
+    "archief/K1/68/68.1/Pasted image 20240817115800.png",
+    "concepten/organisaties/filo utrecht",
+    "concepten/organisaties/bladen",
     "externe-bronnen",
     "gesprekken",
-    "concepten/personen/Menno Lievers.md",
-    "vragen.md",
-    "concepten/organisaties/bladen/epimedium.md",
-    "concepten/organisaties/bladen/epimenides.md",
-    "concepten/organisaties/CIF.md",
-    "concepten/organisaties/faculteitsverenigingen.md",
-    "concepten/organisaties/ASVU.md",
-    "concepten/readme.md",
-    "concepten/processen/readme.md",
     "concepten/processen",
     "concepten/gebeurtenissen",
     "archief/K1/68",
