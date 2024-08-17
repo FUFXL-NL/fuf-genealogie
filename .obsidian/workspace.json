@@ -15,7 +15,7 @@
               "state": {
                 "file": "archief/K1/68/68.1/readme.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "concepten/organisaties/filo utrecht/eFeF.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "concepten/organisaties/filo utrecht/CoCo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "concepten/organisaties/filo utrecht/dryade.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -63,7 +63,7 @@
               "state": {
                 "file": "concepten/organisaties/bladen/epimedium.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -71,9 +71,12 @@
             "id": "8e84857fbfe07d4c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "archief/K1/68/68.1/Pasted image 20240817115800.png"
+                "file": "archief/K1/68/68.1/readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -144,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archief/K1/68/68.1/Pasted image 20240817115800.png",
+                "file": "archief/K1/68/68.1/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archief/K1/68/68.1/Pasted image 20240817115800.png",
+                "file": "archief/K1/68/68.1/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archief/K1/68/68.1/Pasted image 20240817115800.png"
+                "file": "archief/K1/68/68.1/readme.md"
               }
             }
           }
@@ -207,10 +210,10 @@
   },
   "active": "8e84857fbfe07d4c",
   "lastOpenFiles": [
+    "archief/K1/68/68.1/Pasted image 20240817115800.png",
     "readme.md",
     "concepten/organisaties/filo utrecht",
     "archief/K1/68/68.1/readme.md",
-    "archief/K1/68/68.1/Pasted image 20240817115800.png",
     "concepten/personen/Jan v. Amerongen.md",
     "concepten/personen/Cor Schavemaker.md",
     "concepten/personen/Geert Panhuysen.md",
@@ -237,7 +240,6 @@
     "concepten/organisaties/ASVU.md",
     "concepten/readme.md",
     "concepten/processen/readme.md",
-    "concepten/personen/herbert.md",
     "concepten/processen",
     "concepten/gebeurtenissen",
     "archief/K1/68",

@@ -1,4 +1,4 @@
-een uittreksel van het [[Ublad]].
+een uittreksel van het [[concepten/organisaties/bladen/Ublad|Ublad]].
 
 [[Pasted image 20240817115800.png]]
 
