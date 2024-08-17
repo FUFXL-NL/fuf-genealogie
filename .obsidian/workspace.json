@@ -205,8 +205,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae721e3531b0515d",
+  "active": "8e84857fbfe07d4c",
   "lastOpenFiles": [
+    "readme.md",
     "concepten/organisaties/filo utrecht",
     "archief/K1/68/68.1/readme.md",
     "archief/K1/68/68.1/Pasted image 20240817115800.png",
@@ -242,7 +243,6 @@
     "archief/K1/68",
     "archief",
     "concepten/personen",
-    "concepten/organisaties",
-    "archief/K1/68/68.2"
+    "concepten/organisaties"
   ]
 }
