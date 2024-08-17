@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e84857fbfe07d4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gesprekken/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepten/organisaties/epimedium.md",
+                "file": "gesprekken/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepten/organisaties/epimedium.md",
+                "file": "gesprekken/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepten/organisaties/epimedium.md"
+                "file": "gesprekken/readme.md"
               }
             }
           }
@@ -195,10 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2baa599b64ac2ada",
+  "active": "8e84857fbfe07d4c",
   "lastOpenFiles": [
-    "concepten/organisaties/epimenides.md",
+    "concepten/personen/maarten van houte.md",
+    "gesprekken/readme.md",
+    "externe-bronnen",
+    "gesprekken",
+    "concepten/personen/Menno Lievers.md",
+    "concepten/personen/Geert Panhuysen.md",
+    "vragen.md",
     "concepten/organisaties/epimedium.md",
+    "concepten/organisaties/epimenides.md",
     "concepten/organisaties/de filosoof.md",
     "concepten/organisaties/CIF.md",
     "concepten/organisaties/faculteitsverenigingen.md",
@@ -219,19 +238,12 @@
     "concepten/processen/democratisering.md",
     "concepten/processen",
     "concepten/processen.md",
-    "archief/readme.md",
     "concepten/gebeurtenissen",
-    "concepten/organisaties/faculteitsraad.md",
-    "concepten/organisaties/studieraad.md",
     "archief/K1/68",
-    "concepten/organisaties/dryade.md",
     "archief",
-    "concepten/organisaties/eFeF.md",
     "concepten/personen",
     "concepten/organisaties",
     "archief/K1/68/68.2",
-    "Untitled 1",
-    "concepten",
-    "archief/K1/68/68.1"
+    "Untitled 1"
   ]
 }
