@@ -1,0 +1,1 @@
+een informeel overleg van filosofiestudenten die zich met het uitoefen van invloed (op het filosofisch onderwijs en onderzoek) bezig hielden.

@@ -1,0 +1,1 @@
+Stichting van Studieverenigingen Filosofie, alias de SSF.

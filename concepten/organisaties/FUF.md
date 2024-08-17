@@ -1,1 +1,0 @@
-de faculteitsvereniging utrechtse filosofiestudenten.
