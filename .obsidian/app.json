@@ -1,9 +1,13 @@
 {
   "alwaysUpdateLinks": true,
-  "livePreview": false,
+  "livePreview": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
   "vimMode": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "defaultViewMode": "source",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "promptDelete": false
 }

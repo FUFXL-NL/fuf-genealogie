@@ -1,0 +1,2 @@
+![](Scan%2020%20aug%2024%2018·58·58.pdf.pdf)
+Een oproep tot een algemene vergadering van de studentenfaculteit, gericht aan de hoofdvak studenten filosofie aan de universiteit Utrecht, ter kennismaking van de hoogleeraren stafconventsleden, en administratief personeel van de CIF.

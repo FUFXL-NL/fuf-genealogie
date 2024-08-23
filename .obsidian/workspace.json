@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "archief/K1/K1.68/K1.68.2/readme.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "concepten/organisaties/filo utrecht/eFeF.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "concepten/organisaties/filo utrecht/CoCo.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "concepten/organisaties/filo utrecht/dryade.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -63,7 +63,7 @@
               "state": {
                 "file": "concepten/organisaties/bladen/epimedium.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -73,10 +73,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "archief/K1/K1.69/K1.69.3/readme.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "archief/K1/K1.69/K1.69.3/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md",
+                "file": "archief/K1/K1.69/K1.69.3/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archief/K1/68/68.1/readme.md"
+                "file": "archief/K1/K1.69/K1.69.3/readme.md"
               }
             }
           }
@@ -210,42 +210,42 @@
   },
   "active": "8e84857fbfe07d4c",
   "lastOpenFiles": [
-    "vragen.md",
-    "readme.md",
-    "gesprekken/readme.md",
-    "concepten/processen/readme.md",
-    "concepten/processen/democratisering.md",
+    "concepten/organisaties/VIDIUS.md",
+    "archief/K1/K1.69/K1.69.3/readme.md",
+    "archief/K1/K1.69/K1.69.3/Scan 20 aug 24 19·07·42.pdf.pdf",
+    "archief/K1/K1.69/K1.69.2/readme.md",
+    "archief/K1/K1.69/K1.69.3/Untitled",
+    "archief/K1/K1.69/K1.69.3",
+    "archief/K1/K1.69/K1.69.2/Scan 20 aug 24 18·58·58.pdf.pdf",
+    "archief/K1/K1.69/K1.69.1/readme.md",
+    "archief/K1/K1.69/K1.69.2",
+    "archief/K1/K1.69/K1.69.1/Scan 20 aug 24 18·57·50.pdf.pdf",
+    "archief/K1/K1.69/K1.69.0/readme.md",
+    "archief/K1/K1.69/K1.69.1",
+    "archief/K1/K1.69/K1.69.0/Scan 20 aug 24 18·55·54.pdf.pdf",
+    "archief/K1/readme.md",
+    "archief/K1/K1.68/K1.68.8/readme.md",
+    "archief/K1/K1.69/K1.69.0",
+    "archief/K1/K1.69/Untitled.md",
+    "archief/K1/K1.69",
+    "archief/K1/K1.68/K1.68.7/readme.md",
+    "archief/K1/K1.68/K1.68.6/readme.md",
+    "archief/K1/K1.68/Untitled.md",
+    "archief/K1/K1.68/K1.68.5/readme.md",
+    "archief/K1/K1.68/K1.68.5/K1.68.5.3/readme.md",
+    "concepten/personen/Geert Panhuysen.md",
     "concepten/personen/paul van overvoorde.md",
+    "concepten/personen/Gilbert Ryle.md",
+    "concepten/personen/Jan v. Amerongen.md",
+    "concepten/personen/maarten van houte.md",
     "concepten/personen/Menno Lievers.md",
     "concepten/personen/mansveld.md",
-    "concepten/personen/maarten van houte.md",
     "concepten/personen/lies de regt.md",
-    "concepten/personen/Jan v. Amerongen.md",
     "concepten/personen/herbert.md",
-    "concepten/personen/Geert Panhuysen.md",
-    "concepten/personen/Cor Schavemaker.md",
-    "concepten/organisaties/VIDIUS.md",
-    "concepten/organisaties/USF.md",
-    "concepten/organisaties/USC.md",
-    "concepten/organisaties/SvSF.md",
-    "concepten/organisaties/SVR.md",
-    "concepten/organisaties/studieraad.md",
-    "concepten/organisaties/studentenfaculteit.md",
-    "concepten/organisaties/LFVSF.md",
-    "concepten/organisaties/faculteitsverenigingen.md",
-    "concepten/organisaties/faculteitsraad.md",
-    "concepten/organisaties/CIF.md",
-    "concepten/organisaties/Centrale Interfaculteit.md",
-    "archief/K1/68/68.1/Pasted image 20240817115800.png",
-    "concepten/organisaties/filo utrecht",
-    "concepten/organisaties/bladen",
-    "externe-bronnen",
-    "gesprekken",
-    "concepten/processen",
-    "concepten/gebeurtenissen",
-    "archief/K1/68",
-    "archief",
-    "concepten/personen",
-    "concepten/organisaties"
+    "archief/K1/K1.68/K1.68.5/K1.68.5.2/readme.md",
+    "archief/K1/K1.68/K1.68.5/K1.68.5.1/readme.md",
+    "archief/K1/K1.68/k1.68.4/readme.md",
+    "archief/K1/K1.68/readme.md",
+    "archief/K1/K1.68/K1.68.2/Pasted image 20240817115800.png"
   ]
 }
